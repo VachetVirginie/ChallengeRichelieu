@@ -1032,7 +1032,7 @@ obtention d'un fichier.data
 
 Etape 6 : 
 
-Test avec plusieurs extensions afin de trouver la bonne (jpg)
+Tests avec plusieurs extensions afin de trouver la bonne (jpg)
 
 Etape 7 : 
 appartion d'une image de richelieu : 
