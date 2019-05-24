@@ -1037,7 +1037,7 @@ Test avec plusieurs extensions afin de trouver la bonne (jpg)
 Etape 7 : 
 appartion d'une image de richelieu : 
 
-![alt text](dcode-base64 jpg)
+![alt text](dcode-base64 jpg.jpg)
  
 
 
